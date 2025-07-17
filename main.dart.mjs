@@ -2835,7 +2835,6 @@ class CompiledApp {
 "granularity",
 "grapheme",
 "FontStyle.",
-"Flutter Demo Home Page",
 "Semáforo do Rafael",
 "system",
 "ThemeMode.",
