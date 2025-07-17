@@ -2836,7 +2836,7 @@ class CompiledApp {
 "grapheme",
 "FontStyle.",
 "Flutter Demo Home Page",
-"Flutter Demo",
+"Semáforo do Rafael",
 "system",
 "ThemeMode.",
 "verde",
