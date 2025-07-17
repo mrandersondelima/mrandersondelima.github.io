@@ -58257,7 +58257,7 @@ return B.c.aE(r,s)},
 $S:377}
 A.As.prototype={
 X(a){var s=null
-return new A.r9(B.D1,"Flutter Demo",A.a6c(s,A.a85(B.K,s,s,B.CL),s),!1,s)}}
+return new A.r9(B.D1,"Semáforo do Rafael",A.a6c(s,A.a85(B.K,s,s,B.CL),s),!1,s)}}
 A.rl.prototype={
 al(){return new A.FP(B.hf)}}
 A.tC.prototype={
