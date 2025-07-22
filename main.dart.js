@@ -75825,27 +75825,27 @@ G(){return"Sinal."+this.b}}
 A.AO.prototype={
 oL(){var s=0,r=A.O(t.H),q=this,p,o
 var $async$oL=A.P(function(a,b){if(a===1)return A.L(b,r)
-while(true)switch(s){case 0:o=q.at
-o===$&&A.a()
-p=q.y
-o=o.b
-o===$&&A.a()
-s=2
-return A.S(o.pZ("tempoSinalVermelho",p,B.eF),$async$oL)
-case 2:p=q.at
-o=q.z
+while(true)switch(s){case 0:q.ah(new A.adB(q))
+p=q.at
+p===$&&A.a()
+o=q.y
 p=p.b
 p===$&&A.a()
-s=3
-return A.S(p.pZ("tempoSinalAmarelo",o,B.eF),$async$oL)
-case 3:o=q.at
-p=q.Q
+s=2
+return A.S(p.pZ("tempoSinalVermelho",o,B.eF),$async$oL)
+case 2:o=q.at
+p=q.z
 o=o.b
 o===$&&A.a()
+s=3
+return A.S(o.pZ("tempoSinalAmarelo",p,B.eF),$async$oL)
+case 3:p=q.at
+o=q.Q
+p=p.b
+p===$&&A.a()
 s=4
-return A.S(o.pZ("tempoSinalVerde",p,B.eF),$async$oL)
-case 4:q.ah(new A.adB(q))
-q.c.an(t.Pu).f.G5(A.ak4(null,null,null,B.rA,B.h8,B.a4,null,A.ir("Dados atualizados!",null,null,null,null,null,null),null,A.cO(0,0,3),null,null,null,new A.ax(10,0,10,20),null,null,null,null,null),B.kK)
+return A.S(p.pZ("tempoSinalVerde",o,B.eF),$async$oL)
+case 4:q.c.an(t.Pu).f.G5(A.ak4(null,null,null,B.rA,B.h8,B.a4,null,A.ir("Dados atualizados!",null,null,null,null,null,null),null,A.cO(0,0,3),null,null,null,new A.ax(10,0,10,20),null,null,null,null,null),B.kK)
 return A.M(null,r)}})
 return A.N($async$oL,r)},
 au(){var s,r,q=this
